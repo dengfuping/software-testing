@@ -1,4 +1,4 @@
-## 实验要求
+## 一、实验要求
 
 （1）安装 SeleniumIDE 插件
 
@@ -8,7 +8,7 @@
 
 （4）编写 Selenium Java WebDriver 程序，测试 inputgit.csv 表格中的学号和 git 地址的对应关系是否正确。
 
-## 实验过程
+## 二、实验过程
 
 （1）安装 FireFox 浏览器，版本为 44.0。
 
@@ -156,3 +156,9 @@ public class SeleniumTest {
 }
 
 ```
+
+## 实验结果
+
+117个测试用例全部通过：
+
+![](http://i2.muimg.com/567571/779600bfc843b2e9.png)
