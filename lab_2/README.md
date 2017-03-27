@@ -1,13 +1,17 @@
-## 一、实验要求
+## 实验要求
 
 （1）安装 SeleniumIDE 插件
+
 （2）学会使用 SeleniumIDE 录制脚本和导出脚本
+
 （3）访问 [http://121.193.130.195:8080/](http://121.193.130.195:8080/) 使用学号登录系统（账户名为学号，密码为学号后6位），进入系统后可以看到该同学的 git 地址。
+
 （4）编写 Selenium Java WebDriver 程序，测试 inputgit.csv 表格中的学号和 git 地址的对应关系是否正确。
 
-## 二、实验过程
+## 实验过程
 
 （1）安装 FireFox 浏览器，版本为 44.0。
+
 （2）打开安装的 FireFox 浏览器，并进入 Selenium IDE 的官网，下载最新版本的 Selenium IDE 插件并添加到 FireFox 的组件库中。
 
 ![](http://i4.buimg.com/567571/651b6afc3cac5aac.png)
